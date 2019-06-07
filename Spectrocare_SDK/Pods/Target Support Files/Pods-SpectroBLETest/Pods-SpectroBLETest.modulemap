@@ -1,0 +1,6 @@
+framework module Pods_SpectroBLETest {
+  umbrella header "Pods-SpectroBLETest-umbrella.h"
+
+  export *
+  module * { export * }
+}

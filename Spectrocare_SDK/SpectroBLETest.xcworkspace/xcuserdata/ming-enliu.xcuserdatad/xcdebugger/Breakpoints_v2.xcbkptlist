@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/SpectroDeviceViewController.swift"
+            timestampString = "574168944.807012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "disconnect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/SpectroDeviceScanViewController.swift"
+            timestampString = "578923795.3402309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Connection Module/SCConnectionHelper.swift"
+            timestampString = "578982818.0064811"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
+            landmarkName = "didUpdateBLEStatus(isAvaialble:isTurnOn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Connection Module/SCConnectionHelper.swift"
+            timestampString = "578982818.035699"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "devicesNotDiscovered()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Connection Module/SCConnectionHelper.swift"
+            timestampString = "578982818.036762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "didUpdateBLEStatus(isAvaialble:isTurnOn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/SpectroDeviceScanViewController.swift"
+            timestampString = "578923795.35194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "didDevicesNotFound(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpectroBLETest.SpectroDeviceScanViewController.didDevicesNotFound(Foundation.Notification) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/SpectroDeviceScanViewController.swift"
+                  timestampString = "578999672.381964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SpectroBLETest.SpectroDeviceScanViewController.didDevicesNotFound(Foundation.Notification) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/SpectroDeviceScanViewController.swift"
+                  timestampString = "578999672.384806"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Test Analysis/SpectroDeviceDataController.swift"
+            timestampString = "578999672.2094671"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "setupTestParameters(_:_:statusCallBack:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpectroBLETest.SpectroDeviceDataController.setupTestParameters(_: Swift.String, _: Swift.String, statusCallBack: (Swift.Bool, Swift.Optional&lt;SpectroBLETest.SpectorDeviceDataStruct&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/Framework/Test%20Analysis/SpectroDeviceDataController.swift"
+                  timestampString = "578984040.1503071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpectroBLETest.SpectroDeviceDataController.setupTestParameters(_: Swift.String, _: Swift.String, statusCallBack: (Swift.Bool, Swift.Optional&lt;SpectroBLETest.SpectorDeviceDataStruct&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/Framework/Test%20Analysis/SpectroDeviceDataController.swift"
+                  timestampString = "578984040.152491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "1952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Test Analysis/SpectroDeviceDataController.swift"
+            timestampString = "578999672.209604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "setupTestParameters(_:_:statusCallBack:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Test Analysis/SpectroDeviceDataController.swift"
+            timestampString = "578999699.884833"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "setupTestParameters(_:_:statusCallBack:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpectroBLETest.SpectroDeviceDataController.setupTestParameters(_: Swift.String, _: Swift.String, statusCallBack: (Swift.Bool, Swift.Optional&lt;SpectroBLETest.SpectorDeviceDataStruct&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/Framework/Test%20Analysis/SpectroDeviceDataController.swift"
+                  timestampString = "578999700.182435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "1520">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SpectroBLETest.SpectroDeviceDataController.setupTestParameters(_: Swift.String, _: Swift.String, statusCallBack: (Swift.Bool, Swift.Optional&lt;SpectroBLETest.SpectorDeviceDataStruct&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SpectroBLETest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ming-enliu/Desktop/SVN%20Projects/SpectroCareSDK/SpectroBLETest/Framework/Test%20Analysis/SpectroDeviceDataController.swift"
+                  timestampString = "578999700.1886261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpectroBLETest/Framework/Test Analysis/SpectroDeviceDataController.swift"
+            timestampString = "578999739.765474"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "setupTestParameters(_:_:statusCallBack:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

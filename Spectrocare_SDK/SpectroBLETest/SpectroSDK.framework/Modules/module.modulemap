@@ -1,0 +1,4 @@
+framework module SpectroSDK {
+  header "SpectroSDK-Swift.h"
+  requires objc
+}
